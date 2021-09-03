@@ -1,0 +1,18 @@
+\begin{table}[H]
+\centering
+\begin{tabular}{|c|c|c|c|c|c|}
+\hline
+123123 & $10^0$ & $10^1$ & $10^2$ & $\gamma$ \\
+\hline
+$10^{-1}$ & \texttt{129.2153} & \texttt{148.1726} & \texttt{149.8314} \\
+$10^{-1}$ & \texttt{129.2078} & \texttt{148.1645} & \texttt{150.3258} \\
+$10^{-1}$ & \texttt{129.2151} & \texttt{148.172} & \texttt{149.8298} \\
+$10^{-1}$ & \texttt{129.2076} & \texttt{148.1638} & \texttt{150.3241} \\
+\hline
+$10^{-2}$ & \texttt{863.274} & \texttt{856.4445} & \texttt{845.8669} \\
+$10^{-2}$ & \texttt{868.2175} & \texttt{864.3152} & \texttt{856.3486} \\
+$10^{-2}$ & \texttt{863.2725} & \texttt{856.4409} & \texttt{846.8614} \\
+$10^{-2}$ & \texttt{868.2158} & \texttt{864.3107} & \texttt{855.8407} \\
+\hline
+$10^{-3}$ & \texttt{2883.516} & \texttt{2894.754} & \texttt{2936.479} \\
+$10^{-3}$ & \texttt{2898.324}
